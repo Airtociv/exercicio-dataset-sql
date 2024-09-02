@@ -1,0 +1,34 @@
+Site do Medium para estudo: https://medium.com/@andrensaraiva/importando-e-exportando-arquivos-csv-no-mysql-workbench-056adf805723
+
+
+Escolher um dataset do Kaggle, criar o banco de dados correspondente no MySQL, realizar 5 consultas SQL sobre os dados e exportá-las como arquivos CSV. O resultado final deverá ser entregue como um repositório Git.
+
+Passos:
+Escolher um dataset relevante do Kaggle para análise
+Criar um banco de dados MySQL a partir do dataset escolhido com no minimo 5 atributos
+Realizar consultas SQL para extrair insights dos dados
+Exportar os resultados das consultas como arquivos CSV
+Documentar o processo em um repositório Git
+Instruções:
+Escolha um dataset do Kaggle que seja do seu interesse e tenha relevância para sua área de estudo ou projeto. Alguns datasets populares incluem:
+Olist Brazilian E-Commerce Public DatasetLinks to an external site.
+Titanic: Machine Learning from DisasterLinks to an external site.
+House Prices: Advanced Regression TechniquesLinks to an external site.
+Crie um novo repositório Git para a atividade e clone-o em sua máquina local.
+Crie um banco de dados MySQL correspondente ao dataset escolhido. Você pode usar o MySQL Workbench ou a linha de comando para criar o banco de dados e as tabelas necessárias.
+Importe os dados do dataset para as tabelas do banco de dados. Você pode usar o MySQL Workbench ou o comando LOAD DATA INFILE para importar os dados.
+Escreva 5 consultas SQL para extrair insights relevantes dos dados. As consultas podem incluir:
+Agregações (COUNT, SUM, AVG, etc.)
+Filtros (WHERE, HAVING, etc.)
+Ordenação (ORDER BY)
+Agrupamento (GROUP BY)
+Execute as consultas SQL e exporte os resultados como arquivos CSV. Você pode usar o MySQL Workbench ou a linha de comando para exportar os dados.
+Adicione os arquivos CSV exportados ao seu repositório Git.
+Crie um arquivo README.md no repositório Git com as seguintes informações:
+Descrição do dataset escolhido
+Estrutura do banco de dados (tabelas e colunas)
+Descrição das 4 consultas SQL realizadas
+Insights obtidos com as consultas
+Faça o commit e push das alterações para o repositório Git.
+Entrega
+Envie o link do repositório Git com a atividade concluída.
